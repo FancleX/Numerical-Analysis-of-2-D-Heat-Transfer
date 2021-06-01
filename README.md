@@ -24,7 +24,7 @@ A section of a typical power electronic package looks like as shown in Figure. A
 * The Right side and closed to water planes are convection
 ---
 ## Discretization of Domains
-![Screenshot](Img\Domains.png)
+![Screenshot](https://github.com/FancleX/Numerical-Analysis-of-2-D-Heat-Transfer/blob/main/Img/Domains.PNG)
 
 Here ∆y1=0.3 mm, ∆y2=0.63 mm, ∆y3=1 mm, ∆x=1 mm, w(assumed thickness)=1 mm.
 
